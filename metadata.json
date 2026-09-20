@@ -1,0 +1,8 @@
+{
+  "name": "RLN Hydraulics",
+  "description": "Authorized Dealers of Premium Hydraulic Solutions, specializing in Yuken, Prism, and Boss hydraulic pumps, valves, cylinders, power packs, and industrial machinery components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
